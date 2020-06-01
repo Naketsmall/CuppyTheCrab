@@ -1,0 +1,75 @@
+
+atlass.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+octopus
+  rotate: false
+  xy: 1, 1
+  size: 256, 48
+  orig: 256, 48
+  offset: 0, 0
+  index: -1
+octopus_flashing
+  rotate: false
+  xy: 259, 1
+  size: 256, 48
+  orig: 256, 48
+  offset: 0, 0
+  index: -1
+octopus_damaged
+  rotate: false
+  xy: 517, 1
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+octopus_killed
+  rotate: false
+  xy: 583, 1
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+crab2
+  rotate: false
+  xy: 649, 33
+  size: 48, 16
+  orig: 48, 16
+  offset: 0, 0
+  index: -1
+crab_side2
+  rotate: false
+  xy: 649, 15
+  size: 48, 16
+  orig: 48, 16
+  offset: 0, 0
+  index: -1
+frog_front
+  rotate: false
+  xy: 699, 33
+  size: 48, 16
+  orig: 48, 16
+  offset: 0, 0
+  index: -1
+crab_jump
+  rotate: false
+  xy: 699, 15
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+frog_killed
+  rotate: false
+  xy: 749, 33
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+frog_jump
+  rotate: false
+  xy: 717, 3
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
